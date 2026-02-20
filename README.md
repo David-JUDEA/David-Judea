@@ -1,7 +1,11 @@
+
+
 ## Hi there 👋
 
 <!--
 **David-JUDEA/David-Judea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+"description" Curious is my nature, passionate about problem solving. Always a pleasure to help. 
 
 Here are some ideas to get you started:
 
