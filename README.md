@@ -108,7 +108,7 @@ Available for        :  Work-Study (Alternance)
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| **Spider-Bot** | Building and programming an 8-legged spider robot. | `C` | [→]([https://github.com/David-JUDEA](https://github.com/David-JUDEA/Spider-Bot)) |
+| **Spider-Bot** | Building and programming an 8-legged spider robot. | `C` | [→](https://github.com/David-JUDEA/Spider-Bot) |
 | **Project 3** | API capable of receiving images and storing them | `JavaScript • Python • HTML • CSS • Dockerfile` | [→](https://github.com/David-JUDEA/Cloud-Photo-Manager) |
 | **Robot-tank** | Building and programming a remotely controlled tank | `C++ and arduino` | [→](https://github.com/David-JUDEA/Robot-Tank) |
 
